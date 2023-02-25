@@ -1,3 +1,5 @@
+[<-назад](README.md)
+
 # GIT
 
 * [Указать имя пользователя и пароль](https://www.shellhacks.com/git-config-username-password-store-credentials/):
