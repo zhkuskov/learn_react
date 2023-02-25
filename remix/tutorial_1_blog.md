@@ -8,7 +8,7 @@
 * [Node.js](https://nodejs.org/) версии ^14.17.0 или >=16.0.0
 * [npm](https://www.npmjs.com/) версии 7 или выше
 
-Создаем новый проект Remix. Назовем его "tutorial_1_blog". Вы можете назвать по-другому:
+Создаем новый проект Remix. Назовем его `tutorial_1_blog`. Вы можете назвать по-другому:
 
 ```shell
 npx create-remix@latest --template remix-run/indie-stack tutorial_1_blog
